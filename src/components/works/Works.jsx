@@ -57,7 +57,7 @@ export default function Works() {
                             </div>
                         </div>
                         <div className="right">
-                            <img src="https://cdn.pixabay.com/photo/2021/08/08/15/45/mountains-6531264_1280.jpg" alt="" />
+                            <img src={d.img} alt="" />
                         </div>
                     </div>
                     
